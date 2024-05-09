@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Outalb Walid</h1>
 <h3 align="center">A Software Engineering Student</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/SC9EvsNmiQzbEtREA"/>
 
 - 🔭 I’m currently working on **on solving challenging software engineering problems.**
 
