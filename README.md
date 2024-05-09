@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **on solving challenging software engineering problems.**
 
-- 🌱 I’m currently learning **Everything about software engineering and frameworks (Java development, web and mobile frameworks).**
+- 🌱 I’m currently learning **Everything about Software Engineering and Frameworks (Java development, web and mobile frameworks).**
 
 - 👯 I’m looking to collaborate on **pen-source projects and explore challenging opportunities.**
 
